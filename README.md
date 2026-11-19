@@ -6,5 +6,6 @@
 -HTML
 -CSS
 
-## Imagem do projeto
-<img src="./img/desktop">
+## Imagens do projeto
+<img src="./img/desktop.png">
+<img src="./img/mobile.png">
