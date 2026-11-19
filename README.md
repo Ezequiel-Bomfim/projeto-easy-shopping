@@ -2,7 +2,8 @@
 
 <p>Esse é um projeto que aprendi a criar no curso <a href="https://rodolfomori.com.br/devclub"></a>Devclub</p>
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
+
 -HTML
 -CSS
 
