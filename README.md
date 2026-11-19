@@ -4,8 +4,8 @@
 
 ## Tecnologias utilizadas
 
--HTML
--CSS
+- HTML
+- CSS
 
 ## Imagens do projeto
 <img src="./img/desktop.png">
